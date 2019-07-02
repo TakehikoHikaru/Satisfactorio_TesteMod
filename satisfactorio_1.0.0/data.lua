@@ -1,0 +1,6 @@
+require("animations")
+require("items")
+require("entities")
+require("recipe")
+require("technology")
+require("equipment")

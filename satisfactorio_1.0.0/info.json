@@ -1,0 +1,12 @@
+{
+  "name": "satisfactorio",
+  "version": "1.0.0",
+  "title": "Test satisfactorio",
+  "author": "-",
+  "contact": "-",
+  "factorio_version": "0.17",
+  "homepage": "-",
+  "description": "Mod used by the tests, that contains special scripts and prototypes used by the tests.",
+  "dependencies": ["base"]
+}
+
